@@ -1,6 +1,6 @@
 ## COMMAND :
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=1K+DONE........)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=APK-CLONER........)](https://git.io/typing-svg)
 
 
 * `rm -rf APK-CLONER`
